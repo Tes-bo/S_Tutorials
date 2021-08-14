@@ -8,4 +8,8 @@ Tutorials from seeeeeeeeeeer for CFD/OpenFOAM coding
   - Difficulty level: ★
 
 ## S_Tutorial2
+  - This Turorial is for users to understand how to bulid a customized dictionary file and read the informaiton in it.
+  - Difficulty level: ★★
+
+## S_Tutorial3
   - coming soon...
