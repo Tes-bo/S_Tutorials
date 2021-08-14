@@ -1,0 +1,3 @@
+S_Tutorial2.C
+
+EXE = $(FOAM_USER_APPBIN)/S_Tutorial2
