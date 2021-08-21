@@ -12,4 +12,8 @@ Tutorials from seeeeeeeeeeer for CFD/OpenFOAM coding
   - Difficulty level: ★★
 
 ## S_Tutorial3
+  - This Turorial is to customize the dictionary and file, and then write data information into in.
+  - Difficulty level: ★★
+
+## S_Tutorial4
   - coming soon...
