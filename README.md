@@ -20,4 +20,8 @@ Tutorials from seeeeeeeeeeer for CFD/OpenFOAM coding
   - Difficulty level: ★★★
 
 ## S_Tutorial5
+  - This Tutorial is to learn how to output boundary information in OpenFOAM.
+  - Difficulty level: ★★
+
+## S_Tutorial6
   - coming soon...
