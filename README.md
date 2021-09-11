@@ -24,4 +24,8 @@ Tutorials from seeeeeeeeeeer for CFD/OpenFOAM coding
   - Difficulty level: ★★
 
 ## S_Tutorial6
+  - This Tutorial is to present a brief introduction to objectRegistry in OpenFOAM.
+  - Difficulty level: ★★★
+
+## S_Tutorial7
   - coming soon...
