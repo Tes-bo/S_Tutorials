@@ -28,4 +28,8 @@ Tutorials from seeeeeeeeeeer for CFD/OpenFOAM coding
   - Difficulty level: ★★
 
 ## S_Tutorial7
+  - This Tutorial is to introduce how to use codedFixedValue boundary condition.
+  - Difficulty level: ★★★
+
+## S_Tutorial8
   - coming soon...
