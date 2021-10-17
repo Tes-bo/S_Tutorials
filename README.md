@@ -2,6 +2,7 @@
 
 - Description
 Tutorials from seeeeeeeeeeer for CFD/OpenFOAM coding
+https://space.bilibili.com/210462230
 
 ## S_Tutorial1
   - This Turorial is for users to understand how information is printed in OpenFOAM.
@@ -32,4 +33,8 @@ Tutorials from seeeeeeeeeeer for CFD/OpenFOAM coding
   - Difficulty level: ★★★
 
 ## S_Tutorial8
+  - This Tutorial is a brief talk about parallel information outputing in OpenFOAM.
+  - Difficulty level: ★★★★
+
+## S_Tutorial9
   - coming soon...
