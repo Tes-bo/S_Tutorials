@@ -38,4 +38,8 @@ https://space.bilibili.com/210462230
   - Difficulty level: ★★★★
 
 ## S_Tutorial9
+  - This Tutorial is a quick start for customizing a class in OpenFOAM.
+  - Difficulty level: ★★★★
+
+## S_Tutorial10
   - coming soon...
