@@ -42,4 +42,8 @@ https://space.bilibili.com/210462230
   - Difficulty level: ★★★★
 
 ## S_Tutorial10
+  - This Tutorial is a quick start for customizing a library in OpenFOAM.
+  - Difficulty level: ★★★★
+
+## S_Tutorial11
   - coming soon...
